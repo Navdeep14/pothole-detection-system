@@ -1,0 +1,2 @@
+# pothole-detection-system
+In indian roads i seen lot many accidents occur just due to potholes. so i developed this project based on iot and aws for to detect the pothole and save it in aws with its longitude and latitude and send notification from aws to central transport ministry and state road authorities  and delete the potholes data from aws while scanning again in future and it got updated in aws.
